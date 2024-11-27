@@ -1,0 +1,1 @@
+# Auto_storage_class_example
